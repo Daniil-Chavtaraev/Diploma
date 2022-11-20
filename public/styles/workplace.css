@@ -1,0 +1,29 @@
+#gfx_holder {
+    /* width:1000px; */
+    height:850px;
+    border: 1px solid rgb(34, 34, 34);
+    border-radius: 5px;
+    position: relative;
+}
+
+/* #col-lg-3 {
+    height:750px;
+    border: 1px solid rgb(34, 34, 34);
+    border-radius: 5px;
+} */
+
+#menu {
+    padding: 5px;
+}
+
+#accordion {
+    border: 1px solid rgb(34, 34, 34);
+}
+
+.elButton {
+    margin: 5px;
+}
+
+/* .opAmpDraw2d {
+    background-image: url('img/OpAmp1.png');
+} */

@@ -1,0 +1,551 @@
+[
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "00",
+      "x": 50,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "opAmp",
+      "path": "scripts/img/OpAmp.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "000",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_OutputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin000",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.InputPortLocator"
+        },
+        {
+            "type": "draw2d.HybridPort",
+            "id": "001",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_OutputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin001",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.InputPortLocator"
+          },{
+            "type": "draw2d.HybridPort",
+            "id": "002",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_OutputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin002",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.OutputPortLocator"
+          }
+      ]
+    }
+  ],
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "01",
+      "x": 220,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "resistor110k",
+      "path": "scripts/img/Resistor110k.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "003",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_InputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin003",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.InputPortLocator"
+        },
+        {
+            "type": "draw2d.HybridPort",
+            "id": "004",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_InputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin004",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.OutputPortLocator"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "02",
+      "x": 220,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "resistor100k",
+      "path": "scripts/img/Resistor100k.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "005",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_InputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin005",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.InputPortLocator"
+        },
+        {
+            "type": "draw2d.HybridPort",
+            "id": "006",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_InputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin006",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.OutputPortLocator"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "03",
+      "x": 220,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "resistor50k",
+      "path": "scripts/img/Resistor50k.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "007",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_InputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin007",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.InputPortLocator"
+        },
+        {
+            "type": "draw2d.HybridPort",
+            "id": "008",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_InputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin008",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.OutputPortLocator"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "04",
+      "x": 220,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "resistor5k",
+      "path": "scripts/img/Resistor5k.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "009",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_InputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin009",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.InputPortLocator"
+        },
+        {
+            "type": "draw2d.HybridPort",
+            "id": "010",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_InputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin010",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.OutputPortLocator"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "05",
+      "x": 220,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "resistor1k",
+      "path": "scripts/img/Resistor1k.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "011",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_InputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin011",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.InputPortLocator"
+        },
+        {
+            "type": "draw2d.HybridPort",
+            "id": "012",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_InputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin012",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.OutputPortLocator"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "06",
+      "x": 220,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "capacitor750n",
+      "path": "scripts/img/Capacitor750n.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "013",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_InputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin013",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.InputPortLocator"
+        },
+        {
+            "type": "draw2d.HybridPort",
+            "id": "014",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_InputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin014",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.OutputPortLocator"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "07",
+      "x": 220,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "capacitor550n",
+      "path": "scripts/img/Capacitor550n.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "013",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_InputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin015",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.InputPortLocator"
+        },
+        {
+            "type": "draw2d.HybridPort",
+            "id": "014",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_InputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin016",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.OutputPortLocator"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "08",
+      "x": 220,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "batt",
+      "path": "scripts/img/Batt.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "015",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_InputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin015",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.TopLocator"
+        },
+        {
+            "type": "draw2d.HybridPort",
+            "id": "016",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_InputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin016",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.BottomLocator"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "09",
+      "x": 220,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "ground",
+      "path": "scripts/img/Ground.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "017",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_InputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin016",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.TopLocator"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "type": "draw2d.shape.basic.Image",
+      "id": "10",
+      "x": 220,
+      "y": 50,
+      "width": 100,
+      "height": 100,
+      "cssClass": "voltmeter",
+      "path": "scripts/img/Voltmeter.png",
+      "ports": [
+        {
+          "type": "draw2d.HybridPort",
+          "id": "018",
+          "width": 10,
+          "height": 10,
+          "alpha": 1,
+          "angle": 0,
+          "userData": {},
+          "cssClass": "draw2d_InputPort",
+          "bgColor": "#4F6870",
+          "color": "#1B1B1B",
+          "stroke": 1,
+          "dasharray": null,
+          "maxFanOut": 9007199254740991,
+          "name": "pin015",
+          "port": "draw2d.HybridPort",
+          "locator": "draw2d.layout.locator.InputPortLocator"
+        },
+        {
+            "type": "draw2d.HybridPort",
+            "id": "019",
+            "width": 10,
+            "height": 10,
+            "alpha": 1,
+            "angle": 0,
+            "userData": {},
+            "cssClass": "draw2d_InputPort",
+            "bgColor": "#4F6870",
+            "color": "#1B1B1B",
+            "stroke": 1,
+            "dasharray": null,
+            "maxFanOut": 9007199254740991,
+            "name": "pin016",
+            "port": "draw2d.HybridPort",
+            "locator": "draw2d.layout.locator.OutputPortLocator"
+        }
+      ]
+    }
+  ]
+]
